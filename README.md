@@ -16,7 +16,7 @@ Starts with a placeholder page (that I change like a total nerd for every show).
 
 Mp3s will only play if you are progressing forward, so you can go back a few slides without restarting the music if you skipped ahead accidentally.
 
-Upload images to /img/, mp3s to /mp3/, and videos to /vidoes/, then edit the *slides* array in /js/slides.js.
+Upload images to /img/, mp3s to /mp3/, and videos to /videos/, then edit the *slides* array in /js/slides.js.
 
 Per-slide options:
 
@@ -44,7 +44,7 @@ if image is not set and video *is* set, it will load & autoplay a video from /vi
 
 will set a autotimer to jump to next slide if > 0.
 
-~
+<hr>
 
 There are also a few options at the top of slides.js:
 
@@ -55,7 +55,6 @@ set to true for fullscreen images (otherwise it will center the image, best for 
 	var cross_fade = false;
 
 set to true for crossfaded images (this felt weird for comics but it can be nice if you use this for something else)
-
 
 
 [bf5]: http://brainframe.tumblr.com/post/21352024784/aaron-renier-in-full-tomato-head-reads-his-comic
