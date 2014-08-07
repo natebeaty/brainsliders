@@ -16,7 +16,7 @@ Starts with a placeholder page (that I change like a total nerd for every show).
 
 Mp3s will only play if you are progressing forward, so you can go back a few slides without restarting the music if you skipped ahead accidentally.
 
-Upload images to /img/, mp3s to /mp3/, and videos to /vidoes/, then edit the *slides* array in slides.js.
+Upload images to /img/, mp3s to /mp3/, and videos to /vidoes/, then edit the *slides* array in /js/slides.js.
 
 Per-slide options:
 
